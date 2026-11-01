@@ -1,2 +1,2 @@
-# Practice Git Repository
+# Practice Git Repository1
 This is my personal playground to learn Git and GitHub workflows, commits, and branching!
